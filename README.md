@@ -1,0 +1,1 @@
+# NoVisualStudio_ProjectTemplate
